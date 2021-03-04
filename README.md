@@ -1,1 +1,6 @@
-# HTML_CSS
+# Web Templates
+
+.
+.
+
+# HTML_CSS_JAVASCRIPT
