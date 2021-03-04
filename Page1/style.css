@@ -13,7 +13,11 @@ body{
     top: 50px;
     text-align: center;
   }  
-
+.main-background{
+  background-color: rgb(210, 235, 243);
+  border-bottom-left-radius: 150px;
+  height: 60vh;
+}
  
  .intro-text1{
   position: absolute;
@@ -33,6 +37,7 @@ body{
    color: hsl(225, 20%, 60%);
  }
  .payment-card{
+   background-color: white;
  border: 0px solid black;
  height: 50vh;
  width: 30%;
@@ -119,10 +124,9 @@ font-size: 13px;
   cursor: pointer;
   width: 100px;
   display: inline-block;
-  margin-left: 90px;
+  margin-left: 75px;
   padding: 10px;
   top: 445px;
-  margin-bottom: 100px;
 }
 
 .offer-list{
