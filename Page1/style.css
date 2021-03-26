@@ -282,7 +282,7 @@
         }
     }
     
-    @media screen and (min-width:375px) and (max-width:812px) {
+    @media screen and (min-width:350px) and (max-width:767px) {
         .main-background {
             border-bottom-left-radius: 70px;
         }
